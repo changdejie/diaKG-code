@@ -1,0 +1,16 @@
+Rel_Method_Drug 0
+Rel_Test_items_Disease  1
+Rel_Anatomy_Disease 2
+Rel_Drug_Disease    3
+Rel_SideEff_Disease 4
+Rel_Treatment_Disease   5
+Rel_Pathogenesis_Disease    6
+Rel_Frequency_Drug  7
+Rel_Test_Disease    8
+Rel_Operation_Disese    9
+Rel_Symptom_Disease 10
+Rel_Type_Disease    11
+Rel_Amount_Drug 12
+Rel_SideEff_Drug    13
+Rel_Reason_Disease  14
+Rel_Duration_Drug   15
