@@ -87,24 +87,24 @@ The dataset is exhibited as a hierachical structure with "document-paragraph-sen
 
 | Entity | Freq | Fraction(%) | Avg Length |
 |-----|-----------|------------|----------|
-| Disease       |5743 |
-|Class          |1262
-|Reason         |175
-|Pathogenesis   |202
-|Symptom        |479
-|Test           |489
-|Test_items     |2718
-|Test_Value     |1356
-|Drug           |4782
-|Frequency      |156
-|Amount         |301
-|Method         |399
-|Treatment      |756
-|Operation      |133
-|ADE            |874
-|Anatomy        |1876
-|Level          |280
-|Duration       |69
+| Disease       |5743 |26.05%
+|Class          |1262 |5.72%
+|Reason         |175  |0.79%
+|Pathogenesis   |202  |0.92%
+|Symptom        |479  |2.17%
+|Test           |489  |2.22%
+|Test_items     |2718 |12.33%
+|Test_Value     |1356 |6.15%
+|Drug           |4782 |21.69%
+|Frequency      |156  |0.71%
+|Amount         |301  |1.37%
+|Method         |399  |1.81%
+|Treatment      |756  |3.43%
+|Operation      |133  |0.60%
+|ADE            |874  |3.96%
+|Anatomy        |1876 |8.51%
+|Level          |280  |1.27%
+|Duration       |69   |0.31%
 | Total |22050 | | |
 
 #### Relation
