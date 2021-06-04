@@ -83,29 +83,28 @@ The dataset is exhibited as a hierachical structure with "document-paragraph-sen
 
 #### Entity
 
-@请栋栋补充
 
 | Entity | Freq | Fraction(%) | Avg Length |
 |-----|-----------|------------|----------|
-| Disease       |5743 |26.05%
-|Class          |1262 |5.72%
-|Reason         |175  |0.79%
-|Pathogenesis   |202  |0.92%
-|Symptom        |479  |2.17%
-|Test           |489  |2.22%
-|Test_items     |2718 |12.33%
-|Test_Value     |1356 |6.15%
-|Drug           |4782 |21.69%
-|Frequency      |156  |0.71%
-|Amount         |301  |1.37%
-|Method         |399  |1.81%
-|Treatment      |756  |3.43%
-|Operation      |133  |0.60%
-|ADE            |874  |3.96%
-|Anatomy        |1876 |8.51%
-|Level          |280  |1.27%
-|Duration       |69   |0.31%
-| Total |22050 |100% | |
+| Disease       |5743 |26.05% |3.39
+|Class          |1262 |5.72%  |1.41
+|Reason         |175  |0.79%  |5.37
+|Pathogenesis   |202  |0.92%  |6.93
+|Symptom        |479  |2.17%  |4.04
+|Test           |489  |2.22%  |3.18
+|Test_items     |2718 |12.33% |3.11
+|Test_Value     |1356 |6.15%  |5.73
+|Drug           |4782 |21.69% |4.10
+|Frequency      |156  |0.71%  |3.25
+|Amount         |301  |1.37%  |6.74
+|Method         |399  |1.81%  |1.86
+|Treatment      |756  |3.43%  |5.23
+|Operation      |133  |0.60%  |6.62
+|ADE            |874  |3.96%  |2.93
+|Anatomy        |1876 |8.51%  |1.08
+|Level          |280  |1.27%  |1.28
+|Duration       |69   |0.31%  |2.33
+| Total |22050 |100% | 3.81|
 
 #### Relation
 
