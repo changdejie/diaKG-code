@@ -105,7 +105,7 @@ The dataset is exhibited as a hierachical structure with "document-paragraph-sen
 |Anatomy        |1876 |8.51%
 |Level          |280  |1.27%
 |Duration       |69   |0.31%
-| Total |22050 | | |
+| Total |22050 |100% | |
 
 #### Relation
 
