@@ -144,7 +144,7 @@ The dataset is exhibited as a hierachical structure with "document-paragraph-sen
 
 @请栋栋补充
 
-We use [MRC-BERT](web link) as our baseline model, and the source code is in the **NER** directory.
+We use [MRC-BERT](https://github.com/changdejie/diaKG-code/tree/mrcforner) as our baseline model, and the source code is in the **NER** directory.
 
 #### How to run
 ```
