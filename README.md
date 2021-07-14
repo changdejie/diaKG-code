@@ -102,12 +102,12 @@ The dataset is exhibited as a hierachical structure with "document-paragraph-sen
 
 |Relation|Freq |Fraction(%)|Avg Cross-sentence Number |Relation|Freq |Fraction(%)|Avg Cross-sentence Number | 
 |-----------|------|-------|---------|--------|----------|------|-------|
-|Test_items_Disease  |1171  |17%　  |2.3  |Type_Disease         |854   |12.39% |2.13 |
+|Test_items_Disease  |1171  |17%　  |2.3  |Class_Disease         |854   |12.39% |2.13 |
 |Anatomy_Disease     |1072  |15.56% |2.07 |Reason_Disease       |164   |2.38%  |2.42 |
 |Drug_Disease        |1315  |19.09% |2.5  |Duration_Drug        |61    |0.89%  |2.79 |
-|Method_Drug         |185   |2.69%  |2.41 　|Symptom_Disease    |283   |4.11%  |2.08 |
+|Method_Drug         |185   |2.69%  |2.41　|Symptom_Disease    |283   |4.11%  |2.08 |
 |Treatment_Disease   |354   |5.14%  |2.6   |Amount_Drug         |195   |2.83%  |2.62 |
-|Pathogenesis_Disease|130   |1.89%  |1.97  |SideEff_Drug        |693   |10.06% |2.65 |
+|Pathogenesis_Disease|130   |1.89%  |1.97  |ADE_Drug        |693   |10.06% |2.65 |
 |Test_Disease        |271   |3.93%  |2.27  |Frequency_Drug      |103   |1.49%  |1.97 |
 |Operation_Disese    |37    |0.54%  |2.57  
 |Total               |6890  |100% |2.33 |
