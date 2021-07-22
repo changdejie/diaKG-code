@@ -155,7 +155,7 @@ We use [Bi-directional GRU-Attention](https://github.com/crownpku/Information-Ex
 
 #### How to run
 
-Details in folder RE/README.md
+Details in folder [RE/README.md](https://github.com/changdejie/diaKG-code/edit/main/RE/README.md)
 
 
 #### Results
